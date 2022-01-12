@@ -1,10 +1,10 @@
 {
   "ua": {
-    "api": "https://api.radiovera/test/",
-    "stream": "https://hls.ratiotest.ru/test/"
+    "api": "https://api.bad/test/",
+    "stream": "https://hls.bad.ru/test/"
   },
   "ru": {
-    "api": "https://api.radiovera/test/",
-    "stream": "https://hls.ratiotest.ru/test/"
+    "api": "https://api.bad/test/",
+    "stream": "https://hls.bad.ru/test/"
   }
 }  
