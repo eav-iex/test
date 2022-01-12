@@ -17,4 +17,4 @@ jobs:
       - uses: actions/checkout@v2
       - name: "Update git"
         run: |
-          ls -al
+          ls -test
