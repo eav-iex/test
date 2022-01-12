@@ -1,0 +1,16 @@
+name: dev
+
+on:
+  push:
+    branches:
+      - master
+      
+jobs:
+  run_build:
+    name: "WTF"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: "WTF"
+        run: |
+          ls -al
