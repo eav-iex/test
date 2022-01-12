@@ -1,10 +1,10 @@
 {
   "ua": {
-    "api": "https://api.dd/test/",
-    "stream": "https://hls.dd.ru/test/"
+    "api": "https://api.bad/test/",
+    "stream": "https://hls.bad.ru/test/"
   },
   "ru": {
-    "api": "https://api.ddd/test/",
-    "stream": "https://hls.ddd.ru/test/"
+    "api": "https://api.bad/test/",
+    "stream": "https://hls.bad.ru/test/"
   }
 }  
